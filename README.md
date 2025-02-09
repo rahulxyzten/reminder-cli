@@ -4,13 +4,13 @@
 
 Reminder CLI is a simple command-line interface (CLI) tool that allows you to set reminders effortlessly.
 
-### 📌 Prerequisites
+### Prerequisites 📌
 
 - Go (v1.18 or later)
 - Git
 - VS Code (or any other text editor)
 
-### 🔧 Installation
+### Installation 🔧
 
 1. Clone the repository:
     ```console
@@ -32,7 +32,7 @@ Reminder CLI is a simple command-line interface (CLI) tool that allows you to se
     go build -o reminder.exe
     ```
     
-### 📅 Usage
+### Usage 📅
 
 Once you've built the application, you can start using it!
 
@@ -41,7 +41,7 @@ To set a reminder:
   ./reminder.exe <hh:mm> <text message>
   ```
 
-### 🖼️ Screenshots
+### Screenshots 🖼️
 
 <table align="center">
   <tr>
