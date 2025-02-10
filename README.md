@@ -38,15 +38,15 @@ Once you've built the application, you can start using it!
 
 To set a reminder:
   ```console
-  ./reminder.exe <hh:mm> <text message>
+  ./reminder <hh:mm> <text message>
   ```
 
 ### Screenshots 🖼️
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f33db6c1-00ec-4007-a5f4-6f29b7a1f33a" alt="project screenshot" /></td>
-    <td><img src="https://github.com/user-attachments/assets/a5597b06-4a00-48a7-adb9-23ca831c93ed" alt="project screenshot" /></td>
+    <td><img src="https://github.com/user-attachments/assets/7b998889-d89c-4b6e-9fc3-7c1aabea9351" alt="project screenshot" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f2b02b27-7573-4af4-aad2-324b17add868" alt="project screenshot" /></td>
   </tr>
 </table>
 
